@@ -2,6 +2,9 @@ DeepThought AI
 
 Business Analyst — Process Management Assignment
 Submitted by: Aditya Singh | IIT Patna | singhadityakumar566@gmail.com
+
+
+
 Executive Summary
 After reading through the scenario a couple of times, my main takeaway is this: PharmaTech has done a great job setting up a reporting infrastructure, but they haven't built an execution culture to match it. The tools are there, the tracker is running, and the morning emails go out like clockwork. But nothing is actually moving.
 The reason for this isn't a tech problem; it's a people problem. At its core, the organization hasn't figured out how to separate "highlighting a problem" from "punishing the person tied to that problem." Until they fix that, every new tool they introduce is going to underperform. It won't be because the tool is bad, but because the people using it are smartly trying to protect themselves.
